@@ -1,5 +1,5 @@
 body {
-    background-color: yellow(22, 22, 22);
+    background-color: orange(22, 22, 22);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: pink(206, 216, 167);
+    color: orange(206, 216, 167);
 }
 
 h2{
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: yellow(215, 206, 199);
+    background-color: orange(215, 206, 199);
     color:  rgb(215, 206, 199);
 }
 
@@ -74,7 +74,7 @@ img{
 .box { 
     width: 250px;
     margin: 15px;
-    display: pink;
+    display: green;
     vertical-align: top;   
 }
 .box img{
