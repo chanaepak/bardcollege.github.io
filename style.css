@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: yellow(215, 206, 199);
     color:  rgb(215, 206, 199);
 }
 
@@ -74,7 +74,7 @@ img{
 .box { 
     width: 250px;
     margin: 15px;
-    display: inline-block;
+    display: pink;
     vertical-align: top;   
 }
 .box img{
