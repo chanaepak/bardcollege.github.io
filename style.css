@@ -63,7 +63,7 @@ img{
 
 .redacted{
     background-color: orange(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    color:  orange(215, 206, 199);
 }
 
 .half{
